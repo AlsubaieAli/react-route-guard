@@ -1,0 +1,15 @@
+div {
+  width: 100%;
+  display: flex;
+  justify-content: center;
+}
+
+ul {
+  display: flex;
+  justify-content: space-between;
+  width: 300px;
+}
+
+ul li {
+  list-style: none;
+}
